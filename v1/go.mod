@@ -1,4 +1,4 @@
-module github.com/funkynunu/go_rest_api
+module github.com/funkynunu/go_rest_api/v1
 
 go 1.15
 

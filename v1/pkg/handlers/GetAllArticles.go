@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/funkynunu/go_rest_api/pkg/mocks"
+	"github.com/funkynunu/go_rest_api/v1/pkg/mocks"
 )
 
 func GetAllArticles(w http.ResponseWriter, r *http.Request) {
