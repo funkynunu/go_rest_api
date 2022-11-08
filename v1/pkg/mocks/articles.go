@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/funkynunu/go_rest_api/pkg/models"
+import "github.com/funkynunu/go_rest_api/v1/pkg/models"
 
 var Articles = []models.Article{
     {Id: "8617bf49-39a9-4268-b113-7b6bcd189ba2", Title: "Article 1", Desc: "Article Description 1", Content: "Article Content 1"},

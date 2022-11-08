@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/funkynunu/go_rest_api/pkg/handlers"
+	"github.com/funkynunu/go_rest_api/v1/pkg/handlers"
 	"github.com/gorilla/mux"
 )
 
